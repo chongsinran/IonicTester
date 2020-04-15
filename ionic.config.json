@@ -1,0 +1,7 @@
+{
+  "name": "firefunct",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

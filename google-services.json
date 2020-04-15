@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699408310490",
+    "firebase_url": "https://codebento-test.firebaseio.com",
+    "project_id": "codebento-test",
+    "storage_bucket": "codebento-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699408310490:android:65f3bb0d39077435ba45e3",
+        "android_client_info": {
+          "package_name": "com.tapod.tester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699408310490-sb9ru0nruama7ttuvrcddr26ilk79lt8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tapod.tester",
+            "certificate_hash": "51857b760fb5c0a4d36a46dc8ae31a1feae74169"
+          }
+        },
+        {
+          "client_id": "699408310490-pvuaa4ik43vq98t9hs86dt4hei6lq8c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkU96LoAEsn3eNZ03vPLij4cFkkKBIL-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699408310490-r9jkp5ie3a8e8k8a8ve91edunifqihk1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "699408310490-prje2c2eqm5fkp0bq29e3vk0vd7kos5n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tapod.mytester"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
